@@ -1,7 +1,4 @@
-import RDK, { Data, Response, StaticIPHttpMethod } from "@retter/rdk";
-const rdk = new RDK();
-import AdmZip from 'adm-zip'
-
+import RDK, { Data, Response } from "@retter/rdk";
 import * as TSUtils from "ts-utils"
 import products from 'ts-utils/products.json'
 const JSUtils = require("js-utils");
