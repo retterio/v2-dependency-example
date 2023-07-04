@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@retter/rdk": "2.0.8"
+  },
+  "scripts": {},
+  "devDependencies": {
+    "@types/node": "^20.3.1"
+  }
+}

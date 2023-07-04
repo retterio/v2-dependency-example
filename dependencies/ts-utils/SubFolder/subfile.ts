@@ -1,0 +1,1 @@
+export const helloSub = () => "SubHello from ts-utils!"

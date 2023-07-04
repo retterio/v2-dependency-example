@@ -1,0 +1,8 @@
+init: index.init
+get: index.get
+getState: index.getState
+authorizer: index.authorizer
+methods:
+  - method: sayHello
+    type: WRITE
+    handler: index.sayHello
